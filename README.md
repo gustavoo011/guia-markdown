@@ -1,6 +1,7 @@
 # guia-markdown
 Guia da Linguagem Markdown
 
+**Abra o código para observar os comandos. Para visualizar o código clique no ícone de lápis.**
 
 Estou aprendendo **Markdown** no Curso em Vídeo de Git e GitHub.
 
